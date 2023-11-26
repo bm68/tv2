@@ -1,0 +1,785 @@
+#EXTM3U url-tvg=https://iptvx.one/epg/epg.xml.gz 
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/6392/index.m3u8
+#EXTINF:-1,USSR
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11102/index.m3u8
+#EXTINF:-1,BCU СССР HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11026/index.m3u8
+#EXTINF:-1,YOSSO TV Советские фильмы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14175/index.m3u8
+#EXTINF:-1,Dosug СССР HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14218/index.m3u8
+#EXTINF:-1,VF Военные
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10082/index.m3u8
+#EXTINF:-1,VF Наша победа
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10083/index.m3u8
+#EXTINF:-1,VF Мосфильм
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10084/index.m3u8
+#EXTINF:-1,VF Фильмы СССР
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10085/index.m3u8
+#EXTINF:-1,VF Мультфильмы СССР
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10086/index.m3u8
+#EXTINF:-1,Кинозал! СССР
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11061/index.m3u8
+#EXTINF:-1,KBC-Страна СССР
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11091/index.m3u8
+#EXTINF:-1,KBC-B.O.B
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11072/index.m3u8
+#EXTINF:-1,KBC-НАШ ROCK
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11089/index.m3u8
+#EXTINF:-1,минимакс-ussr-1941-1945 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13018/index.m3u8
+#EXTINF:-1,минимакс-ussr-комедия HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13019/index.m3u8
+#EXTINF:-1,минимакс-ussr-мультфильм HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13020/index.m3u8
+#EXTINF:-1,минимакс-ussr-сказки HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13021/index.m3u8
+#EXTINF:-1,минимакс-ussr-фантастика HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13022/index.m3u8
+#EXTINF:-1,минимакс-ussr-приключения HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13060/index.m3u8
+#EXTINF:-1,минимакс-ussr-детектив HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13096/index.m3u8
+#EXTINF:-1,минимакс-воронины HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13031/index.m3u8
+#EXTINF:-1,VF Воронины
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13083/index.m3u8
+#EXTINF:-1,минимакс-крутые 90-е HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13040/index.m3u8
+#EXTINF:-1,UZ Ералаш ТВ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13071/index.m3u8
+#EXTINF:-1,ЕРАЛАШ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11058/index.m3u8
+#EXTINF:-1,VF С новым годом!
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15524/index.m3u8
+#EXTINF:-1,KBC-Союз МУЛЬТZAL
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11090/index.m3u8
+#EXTINF:-1,YOSSO TV Союзмульт
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14178/index.m3u8
+#EXTINF:-1,В гостях у сказки
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/737/index.m3u8
+#EXTINF:-1,Зал 1
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2568/index.m3u8
+#EXTINF:-1,Зал 2
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2569/index.m3u8
+#EXTINF:-1,Зал 3
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2570/index.m3u8
+#EXTINF:-1,Зал 4
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2571/index.m3u8
+#EXTINF:-1,Зал 5
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2572/index.m3u8
+#EXTINF:-1,Зал 6
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2573/index.m3u8
+#EXTINF:-1,Зал 7
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2574/index.m3u8
+#EXTINF:-1,Зал 8
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2575/index.m3u8
+#EXTINF:-1,Зал 9
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2576/index.m3u8
+#EXTINF:-1,Зал 10
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2577/index.m3u8
+#EXTINF:-1,Зал 11
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2578/index.m3u8
+#EXTINF:-1,Зал 12
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2579/index.m3u8
+#EXTINF:-1,VF Adventure
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10000/index.m3u8
+#EXTINF:-1,VF Anime
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10001/index.m3u8
+#EXTINF:-1,VF Cartoon
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10002/index.m3u8
+#EXTINF:-1,VF Comedy
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10003/index.m3u8
+#EXTINF:-1,VF Family
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10004/index.m3u8
+#EXTINF:-1,VF Fantasy
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10005/index.m3u8
+#EXTINF:-1,VF Melodrama
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10006/index.m3u8
+#EXTINF:-1,VF Mystic
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10007/index.m3u8
+#EXTINF:-1,VF Ужасы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10008/index.m3u8
+#EXTINF:-1,VF VHS MIX
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10009/index.m3u8
+#EXTINF:-1,VF Ужасы VHS
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10010/index.m3u8
+#EXTINF:-1,VF Премьера
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10051/index.m3u8
+#EXTINF:-1,VF Premiere
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10052/index.m3u8
+#EXTINF:-1,VF Классика
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10053/index.m3u8
+#EXTINF:-1,VF Classic
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10054/index.m3u8
+#EXTINF:-1,VF Комедия
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10055/index.m3u8
+#EXTINF:-1,VF Катастрофы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10080/index.m3u8
+#EXTINF:-1,VF Marvel
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10081/index.m3u8
+#EXTINF:-1,VF Боевик
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/10087/index.m3u8
+#EXTINF:-1,CineMan
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11004/index.m3u8
+#EXTINF:-1,CineMan Top
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11005/index.m3u8
+#EXTINF:-1,CineMan Action
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11006/index.m3u8
+#EXTINF:-1,CineMan Thriller
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11007/index.m3u8
+#EXTINF:-1,CineMan Melodrama
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11008/index.m3u8
+#EXTINF:-1,CineMan Marvel
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11009/index.m3u8
+#EXTINF:-1,CineMan Ужасы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11010/index.m3u8
+#EXTINF:-1,CineMan Комедия
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11011/index.m3u8
+#EXTINF:-1,CineMan VHS
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11012/index.m3u8
+#EXTINF:-1,CineMan РуКино
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11013/index.m3u8
+#EXTINF:-1,CineMan Сваты
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11014/index.m3u8
+#EXTINF:-1,CineMan Катастрофы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15106/index.m3u8
+#EXTINF:-1,BCU Кинозал Premiere 1 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11015/index.m3u8
+#EXTINF:-1,BCU Кинозал Premiere 2 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11016/index.m3u8
+#EXTINF:-1,BCU Кинозал Premiere 3 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11017/index.m3u8
+#EXTINF:-1,BCU Action HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11027/index.m3u8
+#EXTINF:-1,BCU Catastrophe HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11028/index.m3u8
+#EXTINF:-1,BCU Cinema HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11029/index.m3u8
+#EXTINF:-1,BCU Cinema+ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11030/index.m3u8
+#EXTINF:-1,BCU Comedy HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11031/index.m3u8
+#EXTINF:-1,BCU Fantastic HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11032/index.m3u8
+#EXTINF:-1,BCU FilMystic HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11033/index.m3u8
+#EXTINF:-1,BCU History HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11034/index.m3u8
+#EXTINF:-1,BCU Kinorating HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11037/index.m3u8
+#EXTINF:-1,BCU Marvel HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11038/index.m3u8
+#EXTINF:-1,BCU Premiere HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11039/index.m3u8
+#EXTINF:-1,BCU Romantic HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11040/index.m3u8
+#EXTINF:-1,BCU Russian HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11041/index.m3u8
+#EXTINF:-1,BCU VHS HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11042/index.m3u8
+#EXTINF:-1,BCUMEDIA HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11043/index.m3u8
+#EXTINF:-1,BCU Stars HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11044/index.m3u8
+#EXTINF:-1,BCU RUSERIAL HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11046/index.m3u8
+#EXTINF:-1,BCU Сваты HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11047/index.m3u8
+#EXTINF:-1,BCU Criminal HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11048/index.m3u8
+#EXTINF:-1,BCUMEDIA OLD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15024/index.m3u8
+#EXTINF:-1,BCU Marvel OLD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15025/index.m3u8
+#EXTINF:-1,BCU Comedy OLD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15026/index.m3u8
+#EXTINF:-1,BACKUS TV HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11049/index.m3u8
+#EXTINF:-1,BEST Films HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11050/index.m3u8
+#EXTINF:-1,LOST HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11053/index.m3u8
+#EXTINF:-1,Sky2000 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11054/index.m3u8
+#EXTINF:-1,The X-Files
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11055/index.m3u8
+#EXTINF:-1,Кинозал! VHS HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11059/index.m3u8
+#EXTINF:-1,Кинозал! Интерны ТВ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11060/index.m3u8
+#EXTINF:-1,Кинозал! Сваты
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11062/index.m3u8
+#EXTINF:-1,Кинозал! Универ ТВ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11063/index.m3u8
+#EXTINF:-1,Кинозал! ХИТ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11064/index.m3u8
+#EXTINF:-1,Космо HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11065/index.m3u8
+#EXTINF:-1,СТРАХ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11069/index.m3u8
+#EXTINF:-1,ФАНТАСТИКА HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11070/index.m3u8
+#EXTINF:-1,Юнит HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11071/index.m3u8
+#EXTINF:-1,KBC-Comics
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11073/index.m3u8
+#EXTINF:-1,KBC-Elite comedys
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11074/index.m3u8
+#EXTINF:-1,KBC-Family Animation
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11075/index.m3u8
+#EXTINF:-1,KBC-Fantastic
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11076/index.m3u8
+#EXTINF:-1,KBC-History
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11077/index.m3u8
+#EXTINF:-1,KBC-Light сериал RU
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11078/index.m3u8
+#EXTINF:-1,KBC-Newfilm
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11079/index.m3u8
+#EXTINF:-1,KBC-Premium
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11080/index.m3u8
+#EXTINF:-1,KBC-Russian Комедия
+http ://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11081/index.m3u8
+#EXTINF:-1,KBC-Second HIT
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11082/index.m3u8
+#EXTINF:-1,KBC-Легендарное
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11083/index.m3u8
+#EXTINF:-1,KBC-Видак
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11084/index.m3u8
+#EXTINF:-1,KBC-ГАЙ Ritchie & Tarantino
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11085/index.m3u8
+#EXTINF:-1,KBC-Драма tic
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11086/index.m3u8
+#EXTINF:-1,KBC-Кинотеатр
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11087/index.m3u8
+#EXTINF:-1,KBC-Кошмарное
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11088/index.m3u8
+#EXTINF:-1,KBC-Криминальный Serial
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11092/index.m3u8
+#EXTINF:-1,KBC-Шпионское
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11093/index.m3u8
+#EXTINF:-1,Premiere HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11094/index.m3u8
+#EXTINF:-1,Premium HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11095/index.m3u8
+#EXTINF:-1,РуКино HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11096/index.m3u8
+#EXTINF:-1,Victory HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11097/index.m3u8
+#EXTINF:-1,Paradox HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11098/index.m3u8
+#EXTINF:-1,Thriller HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11099/index.m3u8
+#EXTINF:-1,Paradise HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11100/index.m3u8
+#EXTINF:-1,Serial HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11101/index.m3u8
+#EXTINF:-1,VHS HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15000/index.m3u8
+#EXTINF:-1,VF TOP Series
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11116/index.m3u8
+#EXTINF:-1,VF Art house
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11119/index.m3u8
+#EXTINF:-1,VF Detective
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11120/index.m3u8
+#EXTINF:-1,VF Fantastic
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11121/index.m3u8
+#EXTINF:-1,VF Оскар
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11122/index.m3u8
+#EXTINF:-1,TOP Великолепный Век HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13001/index.m3u8
+#EXTINF:-1,TOP 80 S HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13002/index.m3u8
+#EXTINF:-1,TOP BUDO HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13003/index.m3u8
+#EXTINF:-1,TOP Cinema HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13004/index.m3u8
+#EXTINF:-1,TOP HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13006/index.m3u8
+#EXTINF:-1,минимакс-007 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13009/index.m3u8
+#EXTINF:-1,минимакс-love HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13010/index.m3u8
+#EXTINF:-1,минимакс-newfilm 1 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13011/index.m3u8
+#EXTINF:-1,минимакс-newfilm 2 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13012/index.m3u8
+#EXTINF:-1,минимакс-newfilm 3 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13013/index.m3u8
+#EXTINF:-1,минимакс-newfilm.ru HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13014/index.m3u8
+#EXTINF:-1,минимакс-rock HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13015/index.m3u8
+#EXTINF:-1,минимакс-Tom & Jerry HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13016/index.m3u8
+#EXTINF:-1,минимакс-UFO HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13017/index.m3u8
+#EXTINF:-1,минимакс-world hits HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13023/index.m3u8
+#EXTINF:-1,минимакс-Агата Кристи HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13024/index.m3u8
+#EXTINF:-1,минимакс-байки Митяя HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13025/index.m3u8
+#EXTINF:-1,минимакс-Барбоскины HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13026/index.m3u8
+#EXTINF:-1,минимакс-боевик classic HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13027/index.m3u8
+#EXTINF:-1,минимакс-боевик HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13028/index.m3u8
+#EXTINF:-1,минимакс-вестерн HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13029/index.m3u8
+#EXTINF:-1,минимакс-затмение HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13032/index.m3u8
+#EXTINF:-1,минимакс-история HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13033/index.m3u8
+#EXTINF:-1,минимакс-катастрофа HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13034/index.m3u8
+#EXTINF:-1,минимакс-квартирник HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13035/index.m3u8
+#EXTINF:-1,минимакс-киберпанк HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13036/index.m3u8
+#EXTINF:-1,минимакс-комедия classic HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13037/index.m3u8
+#EXTINF:-1,минимакс-комедия HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13038/index.m3u8
+#EXTINF:-1,минимакс-криминал HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13039/index.m3u8
+#EXTINF:-1,минимакс-кунг-фу HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13041/index.m3u8
+#EXTINF:-1,минимакс-Маша и медведь HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13042/index.m3u8
+#EXTINF:-1,минимакс-ми-ми-мишки HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13043/index.m3u8
+#EXTINF:-1,минимакс-мифология HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13044/index.m3u8
+#EXTINF:-1,минимакс-нуар HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13045/index.m3u8
+#EXTINF:-1,минимакс-ольга HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13046/index.m3u8
+#EXTINF:-1,минимакс-погружение HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13047/index.m3u8
+#EXTINF:-1,минимакс-приключения HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13048/index.m3u8
+#EXTINF:-1,минимакс-полицейский с Рублёвки HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13049/index.m3u8
+#EXTINF:-1,минимакс-роскино HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13050/index.m3u8
+#EXTINF:-1,минимакс-сваты HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13051/index.m3u8
+#EXTINF:-1,минимакс-ситком HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13052/index.m3u8
+#EXTINF:-1,минимакс-скорость HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13053/index.m3u8
+#EXTINF:-1,минимакс-спорт HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13054/index.m3u8
+#EXTINF:-1,минимакс-Стивен Кинг HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13055/index.m3u8
+#EXTINF:-1,минимакс-супергерои HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13056/index.m3u8
+#EXTINF:-1,минимакс-три кота HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13057/index.m3u8
+#EXTINF:-1,минимакс-триллер HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13058/index.m3u8
+#EXTINF:-1,минимакс-ужастик HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13059/index.m3u8
+#EXTINF:-1,минимакс-Уэс Крэйвен HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13061/index.m3u8
+#EXTINF:-1,минимакс-фантастика HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13062/index.m3u8
+#EXTINF:-1,минимакс-фобия HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13063/index.m3u8
+#EXTINF:-1,минимакс-walt disney HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13064/index.m3u8
+#EXTINF:-1,минимакс-live planet HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13095/index.m3u8
+#EXTINF:-1,минимакс-семейный 1 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13097/index.m3u8
+#EXTINF:-1,минимакс-семейный 2 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13098/index.m3u8
+#EXTINF:-1,минимакс-ужасы HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13099/index.m3u8
+#EXTINF:-1,минимакс-ужасы classic HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14128/index.m3u8
+#EXTINF:-1,UZ Фантастика HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13065/index.m3u8
+#EXTINF:-1,UZ МУЛЬТЗАЛ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13066/index.m3u8
+#EXTINF:-1,UZ KLIP NEW
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13067/index.m3u8
+#EXTINF:-1,UZ Ужасное ТВ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13068/index.m3u8
+#EXTINF:-1,UZ Приключение HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13069/index.m3u8
+#EXTINF:-1,UZ Бойцовское кино HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13070/index.m3u8
+#EXTINF:-1,UZ Малютка ТВ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13072/index.m3u8
+#EXTINF:-1,UZ Kino2 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13073/index.m3u8
+#EXTINF:-1,UZ Kino1 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13074/index.m3u8
+#EXTINF:-1,UZ Kino3 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13075/index.m3u8
+#EXTINF:-1,UZ Kino4 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13076/index.m3u8
+#EXTINF:-1,UZ Боевики HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13077/index.m3u8
+#EXTINF:-1,UZ-Tom&Jerry HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13078/index.m3u8
+#EXTINF:-1,UZ Vitek tv
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13100/index.m3u8
+#EXTINF:-1,UZ-Кинокомфорт HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13101/index.m3u8
+#EXTINF:-1,UZ Кино Новинки HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14126/index.m3u8
+#EXTINF:-1,UZ Комедия HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14127/index.m3u8
+#EXTINF:-1,UZ TV HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14220/index.m3u8
+#EXTINF:-1,UZ Катастрофа HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14230/index.m3u8
+#EXTINF:-1,UZ Kino 5 HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14232/index.m3u8
+#EXTINF:-1,VF Сваты
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13080/index.m3u8
+#EXTINF:-1,VF Солдаты
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13081/index.m3u8
+#EXTINF:-1,VF Тайны следствия
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13082/index.m3u8
+#EXTINF:-1,VF Универ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13084/index.m3u8
+#EXTINF:-1,VF Series
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13085/index.m3u8
+#EXTINF:-1,VF След
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13086/index.m3u8
+#EXTINF:-1,VF Сериал
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13087/index.m3u8
+#EXTINF:-1,VF Мыльные оперы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13088/index.m3u8
+#EXTINF:-1,VF Thriller
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13089/index.m3u8
+#EXTINF:-1,VF Индия
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13090/index.m3u8
+#EXTINF:-1,VF История
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13091/index.m3u8
+#EXTINF:-1,VF Comics
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13092/index.m3u8
+#EXTINF:-1,VF Криминал
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13093/index.m3u8
+#EXTINF:-1,VF Клиника
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/13094/index.m3u8
+#EXTINF:-1,VF New Year
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15522/index.m3u8
+#EXTINF:-1,BTV Робокоп HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14005/index.m3u8
+#EXTINF:-1,Z! Channel HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14134/index.m3u8
+#EXTINF:-1,Z! Comedy HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14135/index.m3u8
+#EXTINF:-1,Z! Crime HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14136/index.m3u8
+#EXTINF:-1,Z! Horror HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14137/index.m3u8
+#EXTINF:-1,Z!Serial HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15140/index.m3u8
+#EXTINF:-1,Akudji FilmBox HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14161/index.m3u8
+#EXTINF:-1,YOSSO TV GRAND
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14171/index.m3u8
+#EXTINF:-1,YOSSO TV VHS
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14172/index.m3u8
+#EXTINF:-1,YOSSO TV Русские фильмы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14174/index.m3u8
+#EXTINF:-1,YOSSO TV NEW Кино
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14177/index.m3u8
+#EXTINF:-1,YOSSO TV Трагичное
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14219/index.m3u8
+#EXTINF:-1,YOSSO TV Забавное
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14234/index.m3u8
+#EXTINF:-1,YOSSO KOWBOYSKOE
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14235/index.m3u8
+#EXTINF:-1,YOSSO BEST
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14236/index.m3u8
+#EXTINF:-1,YOSSO TV Adrenaline
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15105/index.m3u8
+#EXTINF:-1,YOSSO TV Thriller
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15168/index.m3u8
+#EXTINF:-1,YOSSO TV Oblivion
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15509/index.m3u8
+#EXTINF:-1,YOSSO TV Adventure
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15510/index.m3u8
+#EXTINF:-1,Dosug Comedy HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14209/index.m3u8
+#EXTINF:-1,Dosug Fantastic HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14210/index.m3u8
+#EXTINF:-1,Dosug History HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14211/index.m3u8
+#EXTINF:-1,Dosug Hit HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14212/index.m3u8
+#EXTINF:-1,Dosug Horror HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14213/index.m3u8
+#EXTINF:-1,Dosug Kids HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14214/index.m3u8
+#EXTINF:-1,Dosug Marvel HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14215/index.m3u8
+#EXTINF:-1,Dosug New HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14216/index.m3u8
+#EXTINF:-1,Dosug Russian HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14217/index.m3u8
+#EXTINF:-1,Dosug TV VHS
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14225/index.m3u8
+#EXTINF:-1,Dosug TV Ходячие мертвецы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14226/index.m3u8
+#EXTINF:-1,Dosug TV Сериал
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14227/index.m3u8
+#EXTINF:-1,Dosug TV Сваты
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14228/index.m3u8
+#EXTINF:-1,Твое ТВ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14229/index.m3u8
+#EXTINF:-1,Кинозал HEVC HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15099/index.m3u8
+#EXTINF:-1,Сериал "Скорая помощь"
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15100/index.m3u8
+#EXTINF:-1,Сериал "Симпсоны"
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15101/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/223/index.m3u8
+#EXTINF:-1,СТС Kids HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2001/index.m3u8
+#EXTINF:-1,Tiji TV
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/108/index.m3u8
+#EXTINF:-1,Gulli
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/109/index.m3u8
+#EXTINF:-1,Nick Jr
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/114/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/541/index.m3u8
+#EXTINF:-1,Disney
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/524/index.m3u8
+#EXTINF:-1,Детский мир
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/543/index.m3u8
+#EXTINF:-1,Jim Jam
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/138/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/143/index.m3u8
+#EXTINF:-1,Карусель
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/156/index.m3u8
+#EXTINF:-1,Ani
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/129/index.m3u8
+#EXTINF:-1,Мульт
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/909/index.m3u8
+#EXTINF:-1,Мульт HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/921/index.m3u8
+#EXTINF:-1,Boomerang
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/723/index.m3u8
+#EXTINF:-1,О!
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/727/index.m3u8
+#EXTINF:-1,Уникум
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/5056/index.m3u8
+#EXTINF:-1,Карусель 
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/740/index.m3u8
+#EXTINF:-1,Мультимузыка
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/749/index.m3u8
+#EXTINF:-1,Duck TV
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1031/index.m3u8
+#EXTINF:-1,Baby TV
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2084/index.m3u8
+#EXTINF:-1,Da Vinci Kids
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1033/index.m3u8
+#EXTINF:-1,Da Vinci Kids UA
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1034/index.m3u8
+#EXTINF:-1,Малыш
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1041/index.m3u8
+#EXTINF:-1,Nickelodeon EN
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1069/index.m3u8
+#EXTINF:-1,NickToons
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/849/index.m3u8
+#EXTINF:-1,Радость моя
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/853/index.m3u8
+#EXTINF:-1,Рыжий
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2052/index.m3u8
+#EXTINF:-1,Капитан Фантастика
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2098/index.m3u8
+#EXTINF:-1,Тамыр
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2109/index.m3u8
+#EXTINF:-1,Смайлик ТВ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2157/index.m3u8
+#EXTINF:-1,Мультиландия
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/5055/index.m3u8
+#EXTINF:-1,BCU Мультсериал HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11025/index.m3u8
+#EXTINF:-1,BCU Kids HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11035/index.m3u8
+#EXTINF:-1,BCU Kids+ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11036/index.m3u8
+#EXTINF:-1,ВЕСЕЛАЯ КАРУСЕЛЬ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11057/index.m3u8
+#EXTINF:-1,Кроха ТВ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11066/index.m3u8
+#EXTINF:-1,VF VHS Cartoon
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11118/index.m3u8
+#EXTINF:-1,VF Малыш
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/11123/index.m3u8
+#EXTINF:-1,BTV Фиксики
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14000/index.m3u8
+#EXTINF:-1,BTV Русалочка
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14002/index.m3u8
+#EXTINF:-1,BTV Том и Джерри HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14004/index.m3u8
+#EXTINF:-1,BTV Вуншпунш
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14006/index.m3u8
+#EXTINF:-1,BTV Детки из класса 402
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14008/index.m3u8
+#EXTINF:-1,BTV Кот Ик
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14009/index.m3u8
+#EXTINF:-1,BTV Мультфильмы СССР -1
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14018/index.m3u8
+#EXTINF:-1,BTV Чип и Дейл
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14019/index.m3u8
+#EXTINF:-1,BTV Тимон и Пумба
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14021/index.m3u8
+#EXTINF:-1,BTV Алладин
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14022/index.m3u8
+#EXTINF:-1,BTV Мультфильмы СССР -3
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14024/index.m3u8
+#EXTINF:-1,BTV Мультпарад 60FPS HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14036/index.m3u8
+#EXTINF:-1,Жара kids HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14147/index.m3u8
+#EXTINF:-1,Сказки Зайки
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14150/index.m3u8
+#EXTINF:-1,Советские мультфильмы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14151/index.m3u8
+#EXTINF:-1,YOSSO TV KIDS
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14173/index.m3u8
+#EXTINF:-1,UZ Nu pogody
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/14233/index.m3u8
+#EXTINF:-1,Рыжий 
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15280/index.m3u8
+#EXTINF:-1,Карусель 
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15340/index.m3u8
+#EXTINF:-1,Карусель 
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15436/index.m3u8
+#EXTINF:-1,Карусель 
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15442/index.m3u8
+#EXTINF:-1,Карусель 
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15453/index.m3u8
+#EXTINF:-1,VF Мультуб
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15520/index.m3u8
+#EXTINF:-1,VF Новогодние мультфильмы
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/15523/index.m3u8
+#EXTINF:-1,Любимое ТВ HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/16007/index.m3u8
+#EXTINF:-1,FAN HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/16021/index.m3u8
+#EXTINF:-1,Amedia Hit HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/6010/index.m3u8
+#EXTINF:-1,Paramount Comedy HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/6000/index.m3u8
+#EXTINF:-1,Остросюжетное HD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/904/index.m3u8
+#EXTINF:-1,Премиальное FHD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2410/index.m3u8
+#EXTINF:-1,TV 1000 Русское кино
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/101/index.m3u8
+#EXTINF:-1,Sci-fi
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/110/index.m3u8
+#EXTINF:-1,КИНОМИКС
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/509/index.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/125/index.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/126/index.m3u8
+#EXTINF:-1,TV 1000 Action
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/131/index.m3u8
+#EXTINF:-1,Кинохит
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/516/index.m3u8
+#EXTINF:-1,Amedia 2
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/510/index.m3u8
+#EXTINF:-1,Наше новое кино
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/517/index.m3u8
+#EXTINF:-1,TV XXI
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/525/index.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/145/index.m3u8
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/146/index.m3u8
+#EXTINF:-1,КИНОСЕРИЯ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/148/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/547/index.m3u8
+#EXTINF:-1,Еврокино
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/549/index.m3u8
+#EXTINF:-1,Fox Russia
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/550/index.m3u8
+#EXTINF:-1,Fox Life
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/553/index.m3u8
+#EXTINF:-1,Дом Кино
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/154/index.m3u8
+#EXTINF:-1,Amedia 1
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/554/index.m3u8
+#EXTINF:-1,Amedia Premium HD (SD)
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/555/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/556/index.m3u8
+#EXTINF:-1,TV 1000
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/132/index.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/164/index.m3u8
+#EXTINF:-1,Hollywood
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/557/index.m3u8
+#EXTINF:-1,.red
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/559/index.m3u8
+#EXTINF:-1,2x2
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/702/index.m3u8
+#EXTINF:-1,Black
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/708/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/905/index.m3u8
+#EXTINF:-1,Русский роман
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/906/index.m3u8
+#EXTINF:-1,Русский детектив
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/907/index.m3u8
+#EXTINF:-1,Любимое Кино
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/722/index.m3u8
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/728/index.m3u8
+#EXTINF:-1,КИНО ТВ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/732/index.m3u8
+#EXTINF:-1,Русская Комедия
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/733/index.m3u8
+#EXTINF:-1,FAN
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/734/index.m3u8
+#EXTINF:-1,НТВ ХИТ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/741/index.m3u8
+#EXTINF:-1,НТВ Сериал
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/744/index.m3u8
+#EXTINF:-1,НСТ
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/726/index.m3u8
+#EXTINF:-1,ZEE TV
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1001/index.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1071/index.m3u8
+#EXTINF:-1,Дорама
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1066/index.m3u8
+#EXTINF:-1,TV1000 World Kino
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/1065/index.m3u8
+#EXTINF:-1,Мир Сериала
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/856/index.m3u8
+#EXTINF:-1,Ретро
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2018/index.m3u8
+#EXTINF:-1,Иллюзион +
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2038/index.m3u8
+#EXTINF:-1,Феникс плюс Кино
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2039/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2055/index.m3u8
+#EXTINF:-1,.redHD
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2062/index.m3u8
+#EXTINF:-1,Киносат
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/2121/index.m3u8
+#EXTINF:-1,Cinéma
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/5051/index.m3u8
+#EXTINF:-1,Paramount Comedy Russia
+http://ff1b0571.russtv.net/iptv/UAWZS54EW64RZB/157/index.m3u8
